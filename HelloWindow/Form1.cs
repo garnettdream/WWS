@@ -36,5 +36,15 @@ namespace HelloWindow
         {
 
         }
+
+        private void WG金价比_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void 重置_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
